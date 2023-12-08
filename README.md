@@ -21,7 +21,7 @@ xCallScan is typically made of:
 <img src="https://github.com/kryptopoo/xcallscan/blob/master/docs/screenshots/homepage.png" width="800" >
 
 
-### Live: http://testnet.xcallscan.xyz
+### Live: https://xcall-explorer.netlify.app/
 
 
 
